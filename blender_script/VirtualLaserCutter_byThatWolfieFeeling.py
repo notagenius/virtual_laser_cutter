@@ -1,3 +1,7 @@
+#Virtual LaserCutter v0.01
+#created with Blender 2.79
+#author: ThatWolfieFeeling 
+
 import bpy 
 import bpy.ops
 import bmesh
