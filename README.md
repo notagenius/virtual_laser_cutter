@@ -1,4 +1,4 @@
-# virtual_laser_cutter
+# virtual laser cutter
 
 #### The Use:
 
@@ -23,7 +23,7 @@ further virtual assembly can be applied
 
 #### Watch out:
 
-tidy .svg is expected for best result, which means 
+tidy .svg is expected for decent result, which means 
 - no redundant path, no redundant nodes
 - well grouped, one piece one group
 - path needs to be filled for proper mesh, e.g.
@@ -32,24 +32,22 @@ tidy .svg is expected for best result, which means
 
 #### Additional resource:
 
-if you are new to inkscape, and wanna work with laser cutter
+new to inkscape? wanna work with laser cutter?
 [this medium post](https://medium.com/@TSwarper/a-dude-who-thinks-from-the-prespective-of-inkscape-f0fc93917ef1) is my note
 
 #### Utility:
 
-In script 3 parameters need to be set:
+3 parameters need to be set in the script:
 - filepath (the .svg file), you can run as many times as you want in one session, every run you wanna update the filepath and move the done model out of the center to avoid overlapping
-- texture path. A decent wooden image is provided (I got it from [poliigon](https://www.poliigon.com/) recommend it
-- thickness, default is 0.004 which is close to 4mm in real world
+- texture path. a decent wooden image texture is provided (from [poliigon](https://www.poliigon.com/))
+- thickness, default value 0.004 which is close to 4mm with the scale of 10 in 3 axises
 
-and all of the model are scaled 10 times in 3 dimensions
+#### Todo:
 
-#### ToDo:
-
-Help is welcome
 - make it as an extionsion with menu and panel
 - make engraving
 - enrich the texture with normal for realism
+Help is welcome
 
 #### Blender vision:
 
@@ -58,3 +56,4 @@ Created with blender 2.79 under Linux
 #### Author
 
 ThatWolfieFeeling
+01/June/2018
