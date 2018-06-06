@@ -1,4 +1,4 @@
-# virtual laser cutter
+# Virtual Laser Cutter
 
 #### The Use:
 
@@ -12,9 +12,10 @@ from .svg
 
 ![svg](/doc/sample_Box_no_fill.svg)
 
-the script will generate
+the python script will generate
 
 ![top_view](/doc/top_view_render.png)
+
 ![side_view](/doc/side_view_render.png)
 
 further virtual assembly can be applied
@@ -37,10 +38,13 @@ new to inkscape? wanna work with laser cutter?
 
 #### Utility:
 
-3 parameters need to be set in the script:
-- filepath (the .svg file), you can run as many times as you want in one session, every run you wanna update the filepath and move the done model out of the center to avoid overlapping
-- texture path. a decent wooden image texture is provided (from [poliigon](https://www.poliigon.com/))
-- thickness, default value 0.004 which is close to 4mm with the scale of 10 in 3 axises
+Start Blender, goto "Text Editor", open the script "VirtualLaserCutter_byThatWolfieFeeling.py"
+(or place it in blender script folder in advanced)
+
+check and set 3 parameters in the head:
+- filepath: location of the .svg file. you can run as many times as you want in one session, every run you wanna update the filepath and move the done model out of the center to avoid overlapping
+- texture path: image texture. a decent wooden image texture is provided (from [poliigon](https://www.poliigon.com/))
+- thickness: default value 0.004 which is close to 4mm with the scale of 10 in 3 axises
 
 #### Todo:
 
