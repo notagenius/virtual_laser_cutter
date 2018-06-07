@@ -58,6 +58,7 @@ check and set 3 user variables in the heading section:
 - make it as an extionsion with menu and panel
 - make engraving
 - enrich the texture with normal for realism
+
 Help is welcome
 
 #### Blender vision:
