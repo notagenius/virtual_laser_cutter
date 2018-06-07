@@ -2,7 +2,7 @@
 
 #### The Use:
 
-Generating 3d models of the pieces which will be purduced by laser cutting
+Generating 3d models of the pieces which will be produced by laser cutting
 
 2d .svg to 3d with graphics Software Blender
 
@@ -41,7 +41,7 @@ tidy .svg is expected for decent result, which means
 #### Additional resource:
 
 new to inkscape? wanna work with laser cutter?
-[this medium post](https://medium.com/@TSwarper/a-dude-who-thinks-from-the-prespective-of-inkscape-f0fc93917ef1) is my note
+[this medium post](https://medium.com/@TSwarper/a-dude-who-thinks-from-the-prespective-of-inkscape-f0fc93917ef1) is my simple note, probably can help.
 
 #### Utility:
 
