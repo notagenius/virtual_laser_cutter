@@ -7,7 +7,7 @@ import bpy.ops
 import bmesh
 import mathutils
 
-#parameters
+#user variables
 filepath = "/doc/sample_Box_fill.svg"
 texturepath = "/texture/woody.jpg"
 thickness = 0.004
