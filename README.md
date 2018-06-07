@@ -29,6 +29,18 @@ further virtual assembly can be applied
 
 ![assembly](/doc/assembly_render.png)
 
+#### Utility:
+
+Start Blender, goto "Text Editor", open the script "VirtualLaserCutter_byThatWolfieFeeling.py"
+(or place it in blender script folder in advanced)
+
+check and set 3 user variables in the heading section:
+- filepath: location of the .svg file. you can run as many times as you want in one session, every run you wanna update the filepath and move the done model out of the center to avoid overlapping
+- texture path: image texture. a decent wooden image texture is provided (from [poliigon](https://www.poliigon.com/))
+- thickness: default value 0.004 which is close to 4mm with the scale of 10 in 3 axises
+
+run script. 
+
 #### Watch out:
 
 tidy .svg is expected for decent result, which means 
@@ -42,18 +54,6 @@ tidy .svg is expected for decent result, which means
 
 new to inkscape? wanna work with laser cutter?
 [this medium post](https://medium.com/@TSwarper/a-dude-who-thinks-from-the-prespective-of-inkscape-f0fc93917ef1) is my simple note, probably can help.
-
-#### Utility:
-
-Start Blender, goto "Text Editor", open the script "VirtualLaserCutter_byThatWolfieFeeling.py"
-(or place it in blender script folder in advanced)
-
-check and set 3 user variables in the heading section:
-- filepath: location of the .svg file. you can run as many times as you want in one session, every run you wanna update the filepath and move the done model out of the center to avoid overlapping
-- texture path: image texture. a decent wooden image texture is provided (from [poliigon](https://www.poliigon.com/))
-- thickness: default value 0.004 which is close to 4mm with the scale of 10 in 3 axises
-
-run script. 
 
 #### Troubleshooting:
 
