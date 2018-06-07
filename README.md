@@ -59,7 +59,7 @@ run script.
 
 0. script stopped at UV.unwrap()
 
-check your path, your path should be tidy with proper filling and the elements in one piece are grouped together.
+check your path, your path should be tidy with proper filling and the elements in one piece are grouped together. when extruding it, it should be a concrete piece, but not any stoke-thin element.
 
 1. texture doesn't applied properly
 
