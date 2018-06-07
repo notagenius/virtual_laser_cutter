@@ -66,6 +66,10 @@ check your path, your path should be tidy with proper filling and the elements i
 Nodes should have no problem. therefore you prabably want to apply uv wrap manually again to make it right
 in blender, select the object, get in "edit mode", press "a" to "select all", press "u" choose "uv unwrap"
 
+2. my model has saw-looking edge or it is just not right
+
+you path has hidden redundant elements.
+
 #### Todo:
 
 - make it as an extionsion with menu and panel
