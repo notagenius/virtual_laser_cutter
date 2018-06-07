@@ -8,6 +8,11 @@ Generating 3d models of the pieces which will be purduced by laser cutting
 
 in short, a virtual laser cutter
 
+- to control the quality
+- to refine the design
+- to produce one interactive assembly virtual assisant
+- or whatever more ...
+
 #### Demo:
 
 from .svg
