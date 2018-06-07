@@ -53,6 +53,19 @@ check and set 3 user variables in the heading section:
 - texture path: image texture. a decent wooden image texture is provided (from [poliigon](https://www.poliigon.com/))
 - thickness: default value 0.004 which is close to 4mm with the scale of 10 in 3 axises
 
+run script. 
+
+#### Troubleshooting:
+
+0. script stopped at UV.unwrap()
+
+check your path, your path should be tidy with proper filling and the elements in one piece are grouped together.
+
+1. texture doesn't applied properly
+
+Nodes should have no problem. therefore you prabably want to apply uv wrap manually again to make it right
+in blender, select the object, get in "edit mode", press "a" to "select all", press "u" choose "uv unwrap"
+
 #### Todo:
 
 - make it as an extionsion with menu and panel
