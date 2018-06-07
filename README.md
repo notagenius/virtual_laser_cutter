@@ -4,9 +4,9 @@
 
 Generating 3d models of the pieces which will be purduced by laser cutting
 
-2d .svg to 3d with 3d graphic software (Blender)
+2d .svg to 3d with graphics Software Blender
 
-working as a virtual laser cutter
+in short, a virtual laser cutter
 
 #### Demo:
 
