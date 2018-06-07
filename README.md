@@ -2,7 +2,9 @@
 
 #### The Use:
 
-Generating 3d model of pieces from .svg file in 3d software (Blender)
+Generating 3d models of the pieces which will be purduced by laser cutting
+
+2d .svg to 3d with 3d graphic software (Blender)
 
 working as a virtual laser cutter
 
