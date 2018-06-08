@@ -29,6 +29,11 @@ further virtual assembly can be applied
 
 ![assembly](/doc/assembly_render.png)
 
+or something fancier
+
+![lamp](doc/lamp.png)
+
+
 #### Utility:
 
 Start Blender, goto "Text Editor", open the script "VirtualLaserCutter_byThatWolfieFeeling.py"
