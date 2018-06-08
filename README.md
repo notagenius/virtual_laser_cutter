@@ -45,7 +45,7 @@ run script.
 
 tidy .svg is expected for decent result, which means 
 - no redundant path, no redundant nodes
-- well grouped, one piece one group
+- well grouped, one piece one combine
 - path needs to be filled for proper mesh, like this
 
 ![svg](/doc/sample_Box_fill.svg)
