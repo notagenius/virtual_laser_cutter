@@ -31,7 +31,7 @@ further virtual assembly can be applied
 
 or something fancier
 
-![lamp](doc/lamp2.png)
+![lamp](doc/lamp_render.png)
 
 
 #### Utility:
